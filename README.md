@@ -7,18 +7,24 @@ Welcome to my GitHub profile! I'm passionate about data science, analytics, and 
 - Data Analysis and Visualization
 - Machine Learning and Statistical Modeling
 - Python (Pandas, NumPy, Scikit-learn)
-- R (ggplot2, dplyr)
 - SQL (MySQL, PostgreSQL)
 - Data Cleaning and Preprocessing
-- Daa Scraping or extraction
-//- Big Data Technologies (Hadoop, Spark)
+- Data Scraping or extraction
+- Competitive Programming
+<!-- - Big Data Technologies (Hadoop, Spark) -->
 
 ## 🔧 Tools & Technologies
 
 - **Languages:** Python, SQL, java, c++, c#
-- **Libraries/Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow
-- **Tools:** Jupyter Notebook, VS Code, Git, Power BI, Google looker
+- **Libraries/Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, plotly, Dash
+- **Tools:** Jupyter Notebook, VS Code, Git, Power BI, Google looker, IBM Cognos
 <!-- - **Big Data:** Hadoop, Spark -->
+## 🥇 Certifications
+
+IBM Data Analyst Professional Certificate
+Finished May 2024
+Completed an intensive data analysis program using Excel, SQL, and Python. Skilled in data visualization, ETL, and interactive dashboards. Executed real-world projects, effectively analyzing and communicating findings.
+Credentials-https://www.credly.com/badges/fd61999f-3400-4264-a9b4-6ce1b51b848e/public_url
 
 <!--
 ## 📊 Projects
