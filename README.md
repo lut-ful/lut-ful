@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Md. Lutful Kabir! 👋
 
 Welcome to my GitHub profile! I'm passionate about data science, analytics, and using data-driven insights to solve real-world problems. Here you'll find a collection of my projects and explorations in these fields.
 
@@ -44,7 +44,7 @@ Here are a few highlighted projects:
 3. ...
 -->
 
-Feel free to explore more projects in my repositories!
+Feel free to explore projects in my repositories!
 
 ## 📫 Contact Me
 
