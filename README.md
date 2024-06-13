@@ -21,8 +21,8 @@ Welcome to my GitHub profile! I'm passionate about data science, analytics, and 
 <!-- - **Big Data:** Hadoop, Spark -->
 ## 🥇 Certifications
 
-IBM Data Analyst Professional Certificate
-Finished May 2024
+** IBM Data Analyst Professional Certificate ** <br/>
+Finished May 2024<br/>
 Completed an intensive data analysis program using Excel, SQL, and Python. Skilled in data visualization, ETL, and interactive dashboards. Executed real-world projects, effectively analyzing and communicating findings.
 Credentials-https://www.credly.com/badges/fd61999f-3400-4264-a9b4-6ce1b51b848e/public_url
 
