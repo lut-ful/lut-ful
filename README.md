@@ -23,10 +23,10 @@ Welcome to my GitHub profile! I'm passionate about data science, analytics, and 
 - # **BSc in Computer Science and Engineering**<br/>
 &emsp; September 2022 - December 2025<br/>
 &emsp; [American International University, Bangladesh](https://www.aiub.edu/)<br/>
-&emsp; Currently pursuing a Bachelor of Science in Computer Science and Engineering (BSc in CSE) at the American International University-Bangladesh (AIUB), focusing on developing skills and knowledge in various areas of computing and engineering. Especially in Data Sceience.<br/>
+<p>Currently pursuing a Bachelor of Science in Computer Science and Engineering (BSc in CSE) at the American International University-Bangladesh (AIUB), focusing on developing skills and knowledge in various areas of computing and engineering. Especially in Data Sceience.<p/><br/>
 - # **IBM Data Analyst Professional Certificate** <br/>
 &emsp; Finished May 2024<br/>
-&emsp; <p> Completed an intensive data analysis program using Excel, SQL, and Python. Skilled in data visualization, ETL, and interactive dashboards. Executed real-world projects, effectively analyzing and communicating findings.[Credentials](https://www.credly.com/badges/fd61999f-3400-4264-a9b4-6ce1b51b848e/public_url) <p/>
+<p> Completed an intensive data analysis program using Excel, SQL, and Python. Skilled in data visualization, ETL, and interactive dashboards. Executed real-world projects, effectively analyzing and communicating findings.[Credentials](https://www.credly.com/badges/fd61999f-3400-4264-a9b4-6ce1b51b848e/public_url) <p/> <br/>
 
 <!--
 ## 📊 Projects
