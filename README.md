@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about data science, analytics, and 
 - Data Analysis and Visualization
 - Machine Learning and Statistical Modeling
 - Python (Pandas, NumPy, Scikit-learn)
-- SQL (MySQL, PostgreSQL)
+- SQL (MySQL, PostgreSQL, MicrosoftSQL)
 - Data Cleaning and Preprocessing
 - Data Extraction
 - Web Scraping
