@@ -11,13 +11,14 @@ Welcome to my GitHub profile! I'm passionate about data science, analytics, and 
 - Data Extraction✔️
 - Web Scraping✔️
 - Competitive Programming✔️
+- Effective Presentation and Communication✔️
 <!-- - Big Data Technologies (Hadoop, Spark) -->
 
 ## 🛠️ Tools & Technologies
 
 - **Languages:** Python, SQL, java, c++, c#✔️
 - **Libraries/Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, plotly, Dash✔️
-- **Tools:** Jupyter Notebook, VS Code, Git, Power BI, Google looker, IBM Cognos✔️
+- **Tools:** Jupyter Notebook,Excel, VS Code, Git, Power BI, Google looker, IBM Cognos✔️
 <!-- - **Big Data:** Hadoop, Spark -->
 ## 🥇 Certifications
 # **BSc in Computer Science and Engineering**<br/>
