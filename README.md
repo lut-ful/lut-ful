@@ -3,21 +3,21 @@
 Welcome to my GitHub profile! I'm passionate about data science, analytics, and using data-driven insights to solve real-world problems. Here is everything you need. Feel free to knock me.
 ## 🌟 Skills
 
-- Data Analysis and Visualization
-- Machine Learning and Statistical Modeling
-- Python (Pandas, NumPy, Scikit-learn)
-- SQL (MySQL, PostgreSQL, MicrosoftSQL)
-- Data Cleaning and Preprocessing
-- Data Extraction
-- Web Scraping
-- Competitive Programming
+- Data Analysis and Visualization ✔️
+- Machine Learning and Statistical Modeling✔️
+- Python (Pandas, NumPy, Scikit-learn)✔️
+- SQL (MySQL, PostgreSQL, MicrosoftSQL)✔️
+- Data Cleaning and Preprocessing✔️
+- Data Extraction✔️
+- Web Scraping✔️
+- Competitive Programming✔️
 <!-- - Big Data Technologies (Hadoop, Spark) -->
 
-## 🔧 Tools & Technologies
+## 🛠️ Tools & Technologies
 
-- **Languages:** Python, SQL, java, c++, c#
-- **Libraries/Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, plotly, Dash
-- **Tools:** Jupyter Notebook, VS Code, Git, Power BI, Google looker, IBM Cognos
+- **Languages:** Python, SQL, java, c++, c#✔️
+- **Libraries/Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, plotly, Dash✔️
+- **Tools:** Jupyter Notebook, VS Code, Git, Power BI, Google looker, IBM Cognos✔️
 <!-- - **Big Data:** Hadoop, Spark -->
 ## 🥇 Certifications
 # **BSc in Computer Science and Engineering**<br/>
