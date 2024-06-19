@@ -1,7 +1,6 @@
 # Hi there, I'm Md. Lutful Kabir! 👋
 
-Welcome to my GitHub profile! I'm passionate about data science, analytics, and using data-driven insights to solve real-world problems. Here you'll find a collection of my projects and explorations in these fields.
-
+Welcome to my GitHub profile! I'm passionate about data science, analytics, and using data-driven insights to solve real-world problems. Here is everything you need. Feel free to knock me.
 ## 🌟 Skills
 
 - Data Analysis and Visualization
