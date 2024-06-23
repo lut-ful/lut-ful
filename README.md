@@ -33,12 +33,24 @@ Completed an intensive data analysis program using Excel, SQL, and Python. Skill
 
 Here are a few highlighted projects:
 
-## 1. **Pizza Sales Report**</br>
-   This report provides a comprehensive analysis of pizza sales data using Power BI, with data retrieved from an SQL Server</br>
-   https://github.com/lut-ful/PIzza-Sales-Report
-
+1. **Pizza Sales Report**</br>
+   This report provides a comprehensive analysis of pizza sales data using Power BI, with data retrieved from an SQL Server.</br>
+   https://github.com/lut-ful/PIzza-Sales-Report </br>
+2. **Cryptocurrenc Analysis using Power BI**</br>
+   This project report details the design and implementation of a cryptocurrency analysis dashboard using Power BI.</br>
+   https://github.com/lut-ful/Cryptocurrency-Analysis-Using-Power-BI </br>
+3. **Credit Card Financial Report Dashboard** </br>
+   Developed a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends enabling stakeholders to monitor and analyze credit card operations effectively </br>
+   https://github.com/lut-ful/Credit-Card-Financial-Report-Dashboard </br>
+4. **E-Commerces Sales Report** </br>
+   This dashboard provides a comprehensive visual analysis of e-commerce sales data using Power BI.</br>
+   https://github.com/lut-ful/E-commerce-sales-Report </br>
+5. **Club Management DBMS Project** </br>
+The Club Management DBMS project was undertaken to design and implement a database management system that can handle the various administrative tasks associated with running a club. </br>
+https://github.com/lut-ful/Club-Management-DBMS </br>
+   
 <!--
-2. **Project Name**
+2. **Project Name**</br>
    - Description: Brief description of the project.
    - Technologies Used: List of tools and technologies.
    - [Link to Project](link)
