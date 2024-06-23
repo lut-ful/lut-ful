@@ -42,6 +42,10 @@ Here are a few highlighted projects:
 3. **Credit Card Financial Report Dashboard** </br>
    Developed a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends enabling stakeholders to monitor and analyze credit card operations effectively </br>
    https://github.com/lut-ful/Credit-Card-Financial-Report-Dashboard </br>
+5. **IBM Capstone Project: Stack Overflow Job Survey** </br>
+Analyzed developer trends using Python, SQL, Cognos and looker. Results in PowerPoint and Jupyter Notebook. </br>
+https://github.com/lut-ful/IBM-Capstone-Project-Stack-Overflow-Job-Survey </br>
+
 4. **E-Commerces Sales Report** </br>
    This dashboard provides a comprehensive visual analysis of e-commerce sales data using Power BI.</br>
    https://github.com/lut-ful/E-commerce-sales-Report </br>
