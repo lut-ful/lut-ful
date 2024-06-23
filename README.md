@@ -36,7 +36,7 @@ Here are a few highlighted projects:
 1. **Pizza Sales Report**</br>
    This report provides a comprehensive analysis of pizza sales data using Power BI, with data retrieved from an SQL Server.</br>
    https://github.com/lut-ful/PIzza-Sales-Report </br>
-2. **Cryptocurrenc Analysis using Power BI**</br>
+2. **Cryptocurrency Analysis using Power BI**</br>
    This project report details the design and implementation of a cryptocurrency analysis dashboard using Power BI.</br>
    https://github.com/lut-ful/Cryptocurrency-Analysis-Using-Power-BI </br>
 3. **Credit Card Financial Report Dashboard** </br>
