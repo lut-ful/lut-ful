@@ -29,11 +29,11 @@ Currently pursuing a Bachelor of Science in Computer Science and Engineering (BS
 Finished May 2024<br/>
 Completed an intensive data analysis program using Excel, SQL, and Python. Skilled in data visualization, ETL, and interactive dashboards. Executed real-world projects, effectively analyzing and communicating findings.[Credentials 1](https://www.credly.com/badges/fd61999f-3400-4264-a9b4-6ce1b51b848e/public_url) [credentials 2](https://coursera.org/share/60255c8f5759a5ce46a4aaccf5011bd6) <br/>
 
-## 📊 Projects
+# 📊 Projects
 
 Here are a few highlighted projects:
 
-1. **Pizza Sales Report**
+## 1. **Pizza Sales Report**</br>
    This report provides a comprehensive analysis of pizza sales data using Power BI, with data retrieved from an SQL Server</br>
    https://github.com/lut-ful/PIzza-Sales-Report
 
