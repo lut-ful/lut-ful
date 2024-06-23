@@ -58,7 +58,7 @@ https://github.com/lut-ful/Club-Management-DBMS </br>
 
 Feel free to explore projects in my repositories!
 
-## 📫 Contact Me
+## 📫 Connect
 
 - Email: lutfulkabir1757@gmail.com
 - LinkedIn: [Md. Lutful Kabir](https://www.linkedin.com/in/mdlutfulkabir/)
