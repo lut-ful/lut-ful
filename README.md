@@ -1,6 +1,5 @@
 # Hi there, I'm Md. Lutful Kabir! 👋
-
-Welcome to my GitHub profile! I'm passionate about data science, analytics, and using data-driven insights to solve real-world problems. Here is everything you need. Feel free to knock me.
+Data Analyst with a dedication of 6-8 months of learning in data collection, cleaning, and quality assurance. Proficient in statistical analysis, hypothesis testing, and data visualization using tools like Matplotlib and Seaborn. Skilled in SQL for complex data extraction, manipulation and experienced in Python with libraries such as Pandas and NumPy. Capable of translating data insights into actionable business strategies and creating interactive dashboards with Tableau and Power BI. Familiar with basic machine learning algorithms and knowledgeable in data ethics and privacy regulations.
 ## 🌟 Skills
 
 - Data Analysis and Visualization ✔️
