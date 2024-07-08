@@ -1,5 +1,8 @@
 # Hi there, I'm Md. Lutful Kabir! 👋
-Data Analyst with a dedication of 6-8 months of learning in data collection, cleaning, and quality assurance. Proficient in statistical analysis, hypothesis testing, and data visualization using tools like Matplotlib and Seaborn. Skilled in SQL for complex data extraction, manipulation and experienced in Python with libraries such as Pandas and NumPy. Capable of translating data insights into actionable business strategies and creating interactive dashboards with Tableau and Power BI. Familiar with basic machine learning algorithms and knowledgeable in data ethics and privacy regulations.
+Data Scientist and Data Analyst<br/>
+With 6-8 months of immersive experience in data collection, cleaning, and quality assurance, I am proficient in statistical analysis, hypothesis testing, and data visualization using Matplotlib and Seaborn. My expertise in SQL enables me to perform complex data extraction and manipulation, while my Python skills are honed with libraries such as Pandas, NumPy, and Scikit-Learn.<br/>
+I excel at developing and implementing machine learning models for predictive analytics, leveraging foundational algorithms like linear regression, decision trees, and clustering techniques. My adeptness in data mining allows me to uncover patterns in large datasets, providing actionable insights that drive business decisions. Additionally, I am proficient in web scraping to gather comprehensive data from diverse sources.<br/>
+I translate data insights into actionable business strategies, creating interactive dashboards with Tableau and Power BI. My understanding of data ethics and privacy regulations ensures responsible data handling, and my ability to communicate complex data findings effectively to non-technical stakeholders sets me apart.<br/>
 ## 🌟 Skills
 
 - Data Analysis and Visualization ✔️
