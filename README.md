@@ -1,4 +1,4 @@
-# Hi there, I'm Md. Lutful Kabir! 👋
+# Hi there, I'm MD LUTFUL KABIR ! 👋
 Data Scientist and Data Analyst<br/>
 With 6-8 months of immersive experience in data collection, cleaning, and quality assurance, I am proficient in statistical analysis, hypothesis testing, and data visualization using Matplotlib and Seaborn. My expertise in SQL enables me to perform complex data extraction and manipulation, while my Python skills are honed with libraries such as Pandas, NumPy, and Scikit-Learn.<br/>
 I excel at developing and implementing machine learning models for predictive analytics, leveraging foundational algorithms like linear regression, decision trees, and clustering techniques. My adeptness in data mining allows me to uncover patterns in large datasets, providing actionable insights that drive business decisions. Additionally, I am proficient in web scraping to gather comprehensive data from diverse sources.<br/>
