@@ -1,76 +1,59 @@
-# Hi there, I'm MD LUTFUL KABIR ! 👋
-Data Scientist and Data Analyst<br/>
-With 6-8 months of immersive experience in data collection, cleaning, and quality assurance, I am proficient in statistical analysis, hypothesis testing, and data visualization using Matplotlib and Seaborn. My expertise in SQL enables me to perform complex data extraction and manipulation, while my Python skills are honed with libraries such as Pandas, NumPy, and Scikit-Learn.<br/>
-I excel at developing and implementing machine learning models for predictive analytics, leveraging foundational algorithms like linear regression, decision trees, and clustering techniques. My adeptness in data mining allows me to uncover patterns in large datasets, providing actionable insights that drive business decisions. Additionally, I am proficient in web scraping to gather comprehensive data from diverse sources.<br/>
-I translate data insights into actionable business strategies, creating interactive dashboards with Tableau and Power BI. My understanding of data ethics and privacy regulations ensures responsible data handling, and my ability to communicate complex data findings effectively to non-technical stakeholders sets me apart.<br/>
+# Hi there, I'm MD LUTFUL KABIR! 👋
+
+**Data Scientist | Deep Learning & NLP | GenAI | MLOps **
+
+With knowledge in Deep Learning, NLP, and AI, I work across the entire AI pipeline—from data collection to model deployment. My experience includes developing and fine-tuning neural networks like  RNNs, and transformers (e.g., BERT, GPT) for applications in NLP, and predictive analytics. I specialize in transforming data into actionable insights and building robust, end-to-end AI solutions for impactful, real-world use.
+
 ## 🌟 Skills
 
-- Data Analysis and Visualization ✔️
-- Machine Learning and Statistical Modeling✔️
-- Extract, transform, and load (ETL)
-- Python (Pandas, NumPy, Scikit-learn)✔️
-- SQL (MySQL, PostgreSQL, MicrosoftSQL)✔️
-- Data Cleaning and Preprocessing✔️
-- Data Extraction✔️
-- Web Scraping✔️
-- Competitive Programming✔️
-- Effective Presentation and Communication✔️
-<!-- - Big Data Technologies (Hadoop, Spark) -->
+- **AI & Machine Learning:** Deep Learning, NLP, Statistical Modeling
+- **Modeling Techniques:** RNNs, Transformers (BERT, GPT), LSTM, GRU
+- **Languages & Libraries:** Python (PyTorch, TensorFlow, Keras, Scikit-learn), SQL
+- **Data Processing:** Pandas, NumPy, ETL, Web Scraping, Data Cleaning & Preprocessing
+- **Visualization:** Matplotlib, Seaborn, Plotly, Power BI, Tableau
+- **NLP Capabilities:** Text Classification, Named Entity Recognition, Sentiment Analysis, Embedding Techniques (Word2Vec, GloVe, FastText)
 
 ## 🛠️ Tools & Technologies
 
-- **Languages:** Python, SQL, java, c++, c#✔️
-- **Libraries/Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, plotly, Dash✔️
-- **Tools:** Jupyter Notebook,Excel, VS Code, Git, Power BI, Google looker, IBM Cognos✔️
-<!-- - **Big Data:** Hadoop, Spark -->
+- **Languages:** Python, SQL, Java, C++, C#
+- **Libraries/Frameworks:** PyTorch, TensorFlow, Keras, Hugging Face Transformers, NLTK, Spacy, Scikit-learn, Pandas, NumPy
+- **Cloud & MLOps:**  Docker, Git, MLflow, Jupyter Notebooks, VS Code
+- **Databases:** MySQL, PostgreSQL
+- **Visualization & Reporting:** Power BI, Tableau, Google Looker, IBM Cognos, Dash
+
 ## 🥇 Certifications
-# **BSc in Computer Science and Engineering**<br/>
-September 2022 - December 2025<br/>
-[American International University, Bangladesh](https://www.aiub.edu/)<br/>
-Currently pursuing a Bachelor of Science in Computer Science and Engineering (BSc in CSE) at the American International University-Bangladesh (AIUB), focusing on developing skills and knowledge in various areas of computing and engineering. Completed courses important for **Data Science** such as Database and Statics. Did some project regarding those courses.
-# **[IBM Data Analyst Professional Certificate](https://coursera.org/share/60255c8f5759a5ce46a4aaccf5011bd6)** <br/>
-Finished May 2024<br/>
-Completed an intensive data analysis program using Excel, SQL, and Python. Skilled in data visualization, ETL, and interactive dashboards. Executed real-world projects, effectively analyzing and communicating findings.[Credentials 1](https://www.credly.com/badges/fd61999f-3400-4264-a9b4-6ce1b51b848e/public_url) [credentials 2](https://coursera.org/share/60255c8f5759a5ce46a4aaccf5011bd6) <br/>
 
-# 📊 Projects
+- **BSc in Computer Science and Engineering**
+   - American International University, Bangladesh
+   - Expected Graduation: December 2025
+   - Pursuing core skills in AI and Data Science through coursework, projects, and hands-on experience in database systems, machine learning, and NLP.
 
-Here are a few highlighted projects:
+- **IBM Data Analyst Professional Certificate**
+   - Completed May 2024
+   - Comprehensive training in data analysis with Excel, SQL, and Python, covering data visualization, ETL, and creating interactive dashboards.
+   - [Credentials 1](https://www.credly.com/badges/fd61999f-3400-4264-a9b4-6ce1b51b848e/public_url) [credentials 2](https://coursera.org/share/60255c8f5759a5ce46a4aaccf5011bd6) </br>
 
-1. **Pizza Sales Report**</br>
-   This report provides a comprehensive analysis of pizza sales data using Power BI, with data retrieved from an SQL Server.</br>
-   https://github.com/lut-ful/PIzza-Sales-Report </br>
-2. **Cryptocurrency Analysis using Power BI**</br>
-   This project report details the design and implementation of a cryptocurrency analysis dashboard using Power BI.</br>
-   https://github.com/lut-ful/Cryptocurrency-Analysis-Using-Power-BI </br>
-3. **Credit Card Financial Report Dashboard** </br>
-   Developed a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends enabling stakeholders to monitor and analyze credit card operations effectively </br>
-   https://github.com/lut-ful/Credit-Card-Financial-Report-Dashboard </br>
-5. **IBM Capstone Project: Stack Overflow Job Survey** </br>
-Analyzed developer trends using Python, SQL, Cognos and looker. Results in PowerPoint and Jupyter Notebook. </br>
-https://github.com/lut-ful/IBM-Capstone-Project-Stack-Overflow-Job-Survey </br>
+## 📊 Projects
 
-4. **E-Commerces Sales Report** </br>
-   This dashboard provides a comprehensive visual analysis of e-commerce sales data using Power BI.</br>
-   https://github.com/lut-ful/E-commerce-sales-Report </br>
-5. **Club Management DBMS Project** </br>
-The Club Management DBMS project was undertaken to design and implement a database management system that can handle the various administrative tasks associated with running a club. </br>
-https://github.com/lut-ful/Club-Management-DBMS </br>
+### Highlighted Projects
+
+- **Unintended Bias in Toxicity Classification**
+   - This project aims to solve the Jigsaw Unintended Bias in Toxicity Classification problem from a Kaggle competition hosted by Jigsaw and Google's Conversation AI team. The objective is to build machine learning models that can detect toxicity in online conversations while minimizing unintended bias, particularly with regard to identity terms.
+   - [Link to Project](https://github.com/lut-ful/Unintended-Bias-in-Toxicity-Classification)
+- **ML project to demonstrate CI/CD model**
+   - Simple ML project in using CI/CD model. Fully project implementation is more focused than ML model development.
+   - [Link to Project](https://github.com/lut-ful/mlproject)
    
-<!--
-2. **Project Name**</br>
-   - Description: Brief description of the project.
-   - Technologies Used: List of tools and technologies.
-   - [Link to Project](link)
--->
+- **IBM Capstone Project: Stack Overflow Job Survey**
+   - Analyzed developer trends and predicted future trends using Python, SQL, Cognos and looker. Results in PowerPoint and Jupyter Notebook
+   - [Link to Project](https://github.com/lut-ful/IBM-Capstone-Project-Stack-Overflow-Job-Survey)
 
-Feel free to explore projects in my repositories!
 
 ## 📫 Connect
 
-- Email: lutfulkabir1757@gmail.com
-- LinkedIn: [Md. Lutful Kabir](https://www.linkedin.com/in/mdlutfulkabir/)
-- Portfolio: [Md. Lutful Kabir](https://www.datascienceportfol.io/mdlutfulkabir)
+- **Email:** lutfulkabir1757@gmail.com
+- **LinkedIn:** [Md. Lutful Kabir](https://www.linkedin.com/in/mdlutfulkabir/)
 
-Let's connect and discuss data science, analytics, or any interesting projects! Don't hesitate to reach out.
+Looking forward to connecting and collaborating on AI, deep learning, or NLP projects!
 
 Happy coding! 😊
