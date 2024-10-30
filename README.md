@@ -37,13 +37,13 @@ With knowledge in Deep Learning, NLP, and AI, I work across the entire AI pipeli
 
 ### Highlighted Projects
 
-- **Unintended Bias in Toxicity Classification**[Link](https://github.com/lut-ful/Unintended-Bias-in-Toxicity-Classification)
+- **Unintended Bias in Toxicity Classification** [Link](https://github.com/lut-ful/Unintended-Bias-in-Toxicity-Classification)
    - This project aims to solve the Jigsaw Unintended Bias in Toxicity Classification problem from a Kaggle competition hosted by Jigsaw and Google's Conversation AI team. The objective is to build machine learning models that can detect toxicity in online conversations while minimizing unintended bias, particularly with regard to identity terms.
 
-- **ML project to demonstrate CI/CD model**[Link](https://github.com/lut-ful/mlproject)
+- **ML project to demonstrate CI/CD model** [Link](https://github.com/lut-ful/mlproject)
    - Simple ML project in using CI/CD model. Fully project implementation is more focused than ML model development.
    
-- **IBM Capstone Project: Stack Overflow Job Survey**[Link](https://github.com/lut-ful/IBM-Capstone-Project-Stack-Overflow-Job-Survey)
+- **IBM Capstone Project: Stack Overflow Job Survey** [Link](https://github.com/lut-ful/IBM-Capstone-Project-Stack-Overflow-Job-Survey)
    - Analyzed developer trends and predicted future trends using Python, SQL, Cognos and looker. Results in PowerPoint and Jupyter Notebook
  
 
