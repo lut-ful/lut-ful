@@ -21,18 +21,6 @@ With knowledge in Deep Learning, NLP, and AI, I work across the entire AI pipeli
 - **Databases:** MySQL, PostgreSQL
 - **Visualization & Reporting:** Power BI, Tableau, Google Looker, IBM Cognos, Dash
 
-## 🥇 Certifications
-
-- **BSc in Computer Science and Engineering**
-   - American International University, Bangladesh
-   - Expected Graduation: December 2025
-   - Pursuing core skills in AI and Data Science through coursework, projects, and hands-on experience in database systems, machine learning, and NLP.
-
-- **IBM Data Analyst Professional Certificate**
-   - Completed May 2024
-   - Comprehensive training in data analysis with Excel, SQL, and Python, covering data visualization, ETL, and creating interactive dashboards.
-   - [Credentials 1](https://www.credly.com/badges/fd61999f-3400-4264-a9b4-6ce1b51b848e/public_url) [credentials 2](https://coursera.org/share/60255c8f5759a5ce46a4aaccf5011bd6) </br>
-
 ## 📊 Projects
 
 ### Highlighted Projects
@@ -40,13 +28,24 @@ With knowledge in Deep Learning, NLP, and AI, I work across the entire AI pipeli
 - **Unintended Bias in Toxicity Classification** [Link](https://github.com/lut-ful/Unintended-Bias-in-Toxicity-Classification)
    - This project aims to solve the Jigsaw Unintended Bias in Toxicity Classification problem from a Kaggle competition hosted by Jigsaw and Google's Conversation AI team. The objective is to build machine learning models that can detect toxicity in online conversations while minimizing unintended bias, particularly with regard to identity terms.
 
-- **ML project to demonstrate CI/CD model** [Link](https://github.com/lut-ful/mlproject)
-   - Simple ML project in using CI/CD model. Fully project implementation is more focused than ML model development.
+- **AI Powered job board** [Link](https://github.com/lut-ful/ai-powered-job-board)
+   - Developed a full-stack job board using Next.js 15, Drizzle ORM (PostgreSQL), and Clerk for advanced authentication/billing.
+   - Integrated AI Applicant Ranking functionality to rate candidate fit against job descriptions.
+   - Utilized MLOps concepts (Inngest) for background job processing, handling webhooks, and scheduling AI-driven email notifications.
    
 - **IBM Capstone Project: Stack Overflow Job Survey** [Link](https://github.com/lut-ful/IBM-Capstone-Project-Stack-Overflow-Job-Survey)
    - Analyzed developer trends and predicted future trends using Python, SQL, Cognos and looker. Results in PowerPoint and Jupyter Notebook
  
+## 🥇 Certifications
 
+- **BSc in Computer Science and Engineering**
+   - American International University, Bangladesh
+   - Pursuing core skills in AI and Data Science through coursework, projects, and hands-on experience in database systems, machine learning, and NLP.
+
+- **IBM Data Analyst Professional Certificate**
+   - Completed May 2024
+   - Comprehensive training in data analysis with Excel, SQL, and Python, covering data visualization, ETL, and creating interactive dashboards.
+   - [Credentials 1](https://www.credly.com/badges/fd61999f-3400-4264-a9b4-6ce1b51b848e/public_url) [credentials 2](https://coursera.org/share/60255c8f5759a5ce46a4aaccf5011bd6) </br>
 
 ## 📫 Connect
 
