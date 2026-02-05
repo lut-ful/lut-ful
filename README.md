@@ -1,8 +1,8 @@
 # Hi there, I'm MD LUTFUL KABIR! 👋
 
-**Data Scientist | Deep Learning & NLP | GenAI | MLOps **
+**AI Engineer @QualFix || MLOps || Data Scientist || Deep Learning & NLP || GenAI || IBM Data Analyst Specialist || SQL certificated**
 
-With knowledge in Deep Learning, NLP, and AI, I work across the entire AI pipeline—from data collection to model deployment. My experience includes developing and fine-tuning neural networks like  RNNs, and transformers (e.g., BERT, GPT) for applications in NLP, and predictive analytics. I specialize in transforming data into actionable insights and building robust, end-to-end AI solutions for impactful, real-world use.
+I operate as a multidisciplinary AI Engineer, Data Scientist, and Data Analyst, specializing in the entire ML lifecycle—from data query to model deployment.My core expertise lies in Deep Learning, NLP, and GenAI. I build and operationalize scalable AI solutions using robust MLOps principles.Certified in SQL and Data Analysis, I master the foundational steps of extracting, cleaning, and interpreting data. I leverage my advanced ML with Python certification to develop and deploy high-performance predictive models, turning complex information into clear, strategic insights.Passionate about driving innovation and tangible business value through responsible AI implementation.
 
 ## 🌟 Skills
 
